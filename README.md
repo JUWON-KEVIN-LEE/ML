@@ -28,9 +28,9 @@ P : The number (or fraction) of emails correctly classified as spam/not spam.
 
 0. 1950년대 **규칙 기반** 고전적 인공지능 시대
 
-     : 앨런 튜링, 인공지능을 판별하는 튜링 테스트.
+      : 앨런 튜링, 인공지능을 판별하는 튜링 테스트.
 
-     ​
+      ​
 
 1. 1957년 이후 **신경망 기반** 신경망 시대
 
@@ -64,9 +64,7 @@ P : The number (or fraction) of emails correctly classified as spam/not spam.
 
 - MLE [ Maximum Likelihood Estimation, 최대우도추정 ]
 
-  감사하게도 MLE 에 대해 쉽게 설명해주신 포스팅
-
-  [최대우도추정]: https://ratsgo.github.io/statistics/2017/09/23/MLE/
+  감사하게도 MLE 에 대해 쉽게 설명해주신 포스팅 : [MLE by ratsgo](https://ratsgo.github.io/statistics/2017/09/23/MLE/)
 
 - MAP
 
@@ -84,7 +82,7 @@ In supervised learning, we are given a data set and already know what our correc
 
 
 
-![supervised_learning](C:\Users\quf93\Desktop\ML&DL\MachineLearning\images\supervised_learning.png)
+![supervised_learning](https://github.com/JUWON-KEVIN-LEE/MachineLearning/blob/master/images/supervised_learning.png)
 
 - Methodologies
   - Classfication : estimating a discrete dependent value from observations.
@@ -97,9 +95,9 @@ In supervised learning, we are given a data set and already know what our correc
 
 - **Linear Regression** (선형 회귀)
 
-  **Hypothesis : ** H(x) = W [ weight ] * x + b [ bias ]
+  **Hypothesis :** H(x) = W [ weight ] * x + b [ bias ]
 
-  **Y : **supervised data set
+  **Y :** supervised data set
 
   ​
 
