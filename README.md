@@ -12,7 +12,7 @@
 
 "A computer program is said to learn from experience E with respect to some tast T and some performance measure P,  if its performance on T, as measured by P, improves with experience E."  
 
-
+<br>
 
 Example ) Email Spam Classification Program
 
@@ -22,43 +22,41 @@ E : Watching you label emails as spam or not spam.
 
 P : The number (or fraction) of emails correctly classified as spam/not spam.
 
-
+<br>
 
 #### 1.2 머신러닝 변천사
 
-0. 1950년대 **규칙 기반** 고전적 인공지능 시대
+1950년대 **규칙 기반** 고전적 인공지능 시대
 
-      : 앨런 튜링, 인공지능을 판별하는 튜링 테스트.
+: 앨런 튜링, 인공지능을 판별하는 튜링 테스트.
 
-      ​
+<br>
 
-1. 1957년 이후 **신경망 기반** 신경망 시대
+1957년 이후 **신경망 기반** 신경망 시대
 
-   : perceptron 이라는 기초적인 신경망이 개발되었으나, 데이터가 한정적이라 성능이 별로.
+: perceptron 이라는 기초적인 신경망이 개발되었으나, 데이터가 한정적이라 성능이 별로.
 
-     기초 이론 부족으로 한정적인 패턴만 학습이 가능했다.
+기초 이론 부족으로 한정적인 패턴만 학습이 가능했다.
 
-   ​
+<br>
 
-2.  1990년대 이후 **통계 기반** 머신러닝 시대 / 빅데이터 시대
+1990년대 이후 **통계 기반** 머신러닝 시대 / 빅데이터 시대
 
-   : 통계학을 접목시켜 대규모 데이터에서 패턴을 찾는 시도가 성과를 낸다.
+: 통계학을 접목시켜 대규모 데이터에서 패턴을 찾는 시도가 성과를 낸다.
 
-     통계학적 머신러닝은 웹에서 쏟아지는 데이터, 대용량 저장장치, 분산 처리 기술과 결합하여 엄청난
+통계학적 머신러닝은 웹에서 쏟아지는 데이터, 대용량 저장장치, 분산 처리 기술과 결합하여 엄청난
 
-     시너지를 만들었다.
+시너지를 만들었다.
 
-   ​
+<br>
 
-3. 딥러닝 시대
+딥러닝 시대
 
-   : 데이터가 많아지고 연산 능력이 증가하면서 ( GPU ) 머신러닝 연구자들은 예전 신경망 이론을 다시 접목.
+: 데이터가 많아지고 연산 능력이 증가하면서 ( GPU ) 머신러닝 연구자들은 예전 신경망 이론을 다시 접목.
 
-     훨씬 더 많은 데이터와 새로 개발된 이론을 합치면서 머신러닝만 사용하는 모델을 넘어서는 결과를 얻을
+훨씬 더 많은 데이터와 새로 개발된 이론을 합치면서 머신러닝만 사용하는 모델을 넘어서는 결과를 얻을 수 있게 된다.
 
-     수 있게 된다.
-
-   ​
+<br>
 
 #### 1.3 Probability Theory
 
@@ -82,7 +80,7 @@ In supervised learning, we are given a data set and already know what our correc
 
 
 
-![supervised_learning](https://github.com/JUWON-KEVIN-LEE/MachineLearning/blob/master/images/supervised_learning.png)
+![supervised_learning](https://github.com/JUWON-KEVIN-LEE/ML/blob/master/images/supervised_learning.png)
 
 - Methodologies
   - Classfication : estimating a discrete dependent value from observations.
