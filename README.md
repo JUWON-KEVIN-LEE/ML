@@ -50,7 +50,7 @@ P : The number (or fraction) of emails correctly classified as spam/not spam.
 
 <br>
 
-딥러닝 시대
+**통합** 딥러닝 시대
 
 : 데이터가 많아지고 연산 능력이 증가하면서 ( GPU ) 머신러닝 연구자들은 예전 신경망 이론을 다시 접목.
 
