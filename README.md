@@ -28,9 +28,9 @@ P : The number (or fraction) of emails correctly classified as spam/not spam.
 
 0. 1950년대 **규칙 기반** 고전적 인공지능 시대
 
-    : 앨런 튜링, 인공지능을 판별하는 튜링 테스트.
+     : 앨런 튜링, 인공지능을 판별하는 튜링 테스트.
 
-    ​
+     ​
 
 1. 1957년 이후 **신경망 기반** 신경망 시대
 
@@ -84,7 +84,7 @@ In supervised learning, we are given a data set and already know what our correc
 
 
 
-![supervised_learning](C:\Users\quf93\Desktop\ML&DL\Andrew ng\supervised_learning.png)
+![supervised_learning](C:\Users\quf93\Desktop\ML&DL\MachineLearning\images\supervised_learning.png)
 
 - Methodologies
   - Classfication : estimating a discrete dependent value from observations.
