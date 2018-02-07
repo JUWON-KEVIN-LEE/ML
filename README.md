@@ -113,7 +113,7 @@ In supervised learning, we are given a data set and already know what our correc
 
   **cost(W, b) = 1/m * ∑ square(Hypothesis - Y)**
 
-  ​
+  ![convexity](https://github.com/JUWON-KEVIN-LEE/ML/blob/master/images/convexity.png)
 
 ```python
 import tensorflow as tf
