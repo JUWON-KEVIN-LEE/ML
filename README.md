@@ -60,17 +60,36 @@ P : The number (or fraction) of emails correctly classified as spam/not spam.
 
 #### 1.3 Probability Theory
 
+- Probability
+
+  - Conditional Probabilty
+
+    Posterior = Likelihood * Prior Knowledge / Normalizing constant
+
+    P(A|B) = P(A∩B) / P(B) = P(A|B) * P(B) / P(A)
+
+<br>
+
 - MLE [ Maximum Likelihood Estimation, 최대우도추정 ]
 
   감사하게도 MLE 에 대해 쉽게 설명해주신 포스팅 : [MLE by ratsgo](https://ratsgo.github.io/statistics/2017/09/23/MLE/)
 
+<br>
+
 - MAP
 
-- Probability
-
-- Distribution
-
   ​
+
+<br>
+
+- Distribution [ 추후 필요한 때 정리 ]
+
+  - Normal Distribution
+  - Beta Distribution
+  - Binomial Distribution
+  - Multinomial Distribution
+
+<br>
 
 ### 2. Supervised vs Unsupervised
 
