@@ -4,9 +4,10 @@
 **Andrew ng says :**
 <br>
 <br>
-<img src="https://github.com/JUWON-KEVIN-LEE/ML/blob/master/images/learning_rate_andrew_ng.png" width="320" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/JUWON-KEVIN-LEE/ML/blob/master/images/learning_rate_andrew_ng2.png" width="320" />
+<img src="https://github.com/JUWON-KEVIN-LEE/ML/blob/master/images/learning_rate_andrew_ng.png"/>
+<br>
+<br>
+<img src="https://github.com/JUWON-KEVIN-LEE/ML/blob/master/images/learning_rate_andrew_ng2.png"/>
 <br>
 If **∝** is too small : slow convergence.
 <br>
