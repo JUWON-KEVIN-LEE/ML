@@ -1,15 +1,8 @@
 # MachineLearning
-
+### 0. Purpose
+: 인식된 필기를 보고 파일 형태로 변환시켜주는 앱 제작
 <br>
-
-#### 0. Purpose
-
-: 인식된 필기를 보고 파일 형태로 변환시켜주는 앱을 만들고 싶어서 
-
-<br>
-
 #### [Tensorflow Code Here](https://github.com/JUWON-KEVIN-LEE/ML/tree/master/tensorflow)
-
 <br>
 
 ### 1. Description
